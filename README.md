@@ -36,12 +36,8 @@ TODO
 TODO
 
 
-## Demo
-TODO
-
-
-## Usage
-TODO
+## Demo & Usage
+To run the demo front end, navigate to your cloned repo using `cd my-cloned-repo`. Then run `python server.py` on localhost:8000
 
 
 ## Slides
